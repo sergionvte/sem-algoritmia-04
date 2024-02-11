@@ -1,0 +1,9 @@
+# ninja log v5
+0	538	1707676834598071871	Actividad04_autogen/timestamp	af168a7a63c97dbb
+0	538	1707676834598071871	Actividad04_autogen/mocs_compilation.cpp	af168a7a63c97dbb
+0	538	1707676834598071871	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/Actividad04_autogen/timestamp	af168a7a63c97dbb
+0	538	1707676834598071871	/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/Actividad04_autogen/mocs_compilation.cpp	af168a7a63c97dbb
+538	4324	1707676838386085924	CMakeFiles/Actividad04.dir/main.cpp.o	a343956d6131c4d4
+539	4337	1707676838402085983	CMakeFiles/Actividad04.dir/Actividad04_autogen/mocs_compilation.cpp.o	ea496238be9bf0ab
+539	4813	1707676838874087734	CMakeFiles/Actividad04.dir/mainwindow.cpp.o	5f122ca289c0e918
+4814	5594	1707676839642090583	Actividad04	8911a8dfe7842a3d

@@ -1,0 +1,9 @@
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Actividad04.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Actividad04_autogen_timestamp_deps.dir
+/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug/CMakeFiles/Actividad04_autogen.dir

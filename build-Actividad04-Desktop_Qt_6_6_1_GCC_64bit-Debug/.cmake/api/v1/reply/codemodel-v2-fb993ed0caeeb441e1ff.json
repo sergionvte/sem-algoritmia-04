@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8c2ca3fab6132a0fd710.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Actividad04",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Actividad04::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Actividad04-Debug-f1ac7b06faea43e40bb1.json",
+					"name" : "Actividad04",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Actividad04_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Actividad04_autogen-Debug-69186c0794ef220133c5.json",
+					"name" : "Actividad04_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Actividad04_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Actividad04_autogen_timestamp_deps-Debug-76edace4912483ff7ed9.json",
+					"name" : "Actividad04_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/build-Actividad04-Desktop_Qt_6_6_1_GCC_64bit-Debug",
+		"source" : "/home/sergionvte/Documents/Escuela/2024A/SemAlgoritmia/Actividad 04/Actividad04"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
